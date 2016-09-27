@@ -1,3 +1,4 @@
+
 <?php
 	echo "My name is JUNE JAN";
 	$x = 0;
@@ -7,4 +8,5 @@
 	}
 	echo "chaky!";
 	echo "na this";
+	include("home.php");
 ?>
