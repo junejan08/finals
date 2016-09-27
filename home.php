@@ -3,8 +3,6 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
-	<button class="btn btn-danger"> X </button>
-	<p>Marian is chaky!</p>
-	
+	<button class="btn btn-danger"> <i class="glyphicon glyphicon-remove"></i> </button>
 </body>
 </html>
