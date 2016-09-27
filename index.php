@@ -6,4 +6,5 @@
 		$x++;
 	}
 	echo "chaky!";
+	echo "na this";
 ?>
