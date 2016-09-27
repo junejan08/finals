@@ -5,4 +5,5 @@
 		echo "This is a line!";
 		$x++;
 	}
+	echo "chaky!";
 ?>
